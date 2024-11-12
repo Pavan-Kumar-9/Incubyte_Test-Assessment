@@ -7,7 +7,7 @@ import org.openqa.selenium.WebElement;
 public class SignUpPage {
     WebDriver driver;
 
-    // Locators for the fields and buttons
+    
     private By firstNameField = By.id("firstname");
     private By lastNameField = By.id("lastname");
     private By emailField = By.id("email_address");
